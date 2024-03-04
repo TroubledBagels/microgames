@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level/Scenes/DevMenu.unity
+    guid: 4aa73d6f7d41abf41b148fd1edaa3b24
+  - enabled: 1
+    path: Assets/Level/Scenes/AppMain.unity
+    guid: e1fb3710a323c8a409958266228ed73b
+  - enabled: 1
+    path: Assets/Level/Scenes/EndlessMode.unity
+    guid: 20839ebdb0fe85c4e897e85ff29c9547
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Ballpit.unity
+    guid: c0c3e8da2cb94b444af634ecdda3c9cf
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Palette.unity
+    guid: 16182550ccb1b6946ae49d83ff4ac540
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Circle.unity
+    guid: 5383740ada9e0264d8982d1160c050ba
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Hole.unity
+    guid: d0a9b13360efc11418691571b97b9efa
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Egg.unity
+    guid: b46ac554a2eafd5468e674f8c88c3fac
+  - enabled: 0
+    path: Assets/Level/Scenes/Games/TermsAndConditions.unity
+    guid: 0a6ff1125fd6d66479fb25bfa984db5d
+  - enabled: 0
+    path: Assets/Level/Scenes/Games/JumpToGoal.unity
+    guid: 43736a4b523fe7848b40b2c30e5f96fc
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Football.unity
+    guid: 1fa42c19697c7974c8327583ed037aae
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Bowling.unity
+    guid: 3608e7bb8c2956e4e9bfaa61ae5b189c
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Count5.unity
+    guid: 7125cd822f27c4a4c8800a3cb1b2c14e
+  - enabled: 0
+    path: Assets/Level/Scenes/Games/DodgeDucks.unity
+    guid: 489c1bca346aa3540a6fab470b2448f9
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/PoolTable.unity
+    guid: 1559215e72d558b42869e7b5a0dcf4b5
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/WashDish.unity
+    guid: d1cef6d8f3467d641bb284d100c2ab87
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Dodgems.unity
+    guid: 1bb443ce0fcf966438436abb8af828bf
+  - enabled: 1
+    path: Assets/Level/Scenes/Games/Whackamole.unity
+    guid: 413e9f26944f6ec47871781782158811
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 84080f636fb909f46bc999a3f649b4fe, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 43cf038d240e3eb4fa3ce76d5237fbe9, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9b818a61425949e44b8222672df04479, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 5af21cc59e534724f88d3145de81057f, type: 2}
